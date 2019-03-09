@@ -100,8 +100,8 @@ const main = async () => {
   console.log(chalk`
     {bold.green
   Ξ TITLE  : [⚡] INSTAGRAM TOOLS [⚡]
-  Ξ UPDATE : 01/11/2018-20:40 WITA
-  Ξ AUTHOR : Putu Jaya Adi Pranata
-  Ξ FILES  : https://github.com/officialputuid/toolsig
+  Ξ UPDATE : 09/03/2019-13:25 WIB
+  Ξ AUTHOR : Aulia Ahmad Sormin
+  Ξ FILES  : https://github.com/auliaahmad165/IG
     }`);
   main()
