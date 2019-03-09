@@ -11,20 +11,16 @@
 </p>
 
 ## Table of Contents
-* [Default or Basic Usage](#default-or-basic-usage)
+* [Default or Basic Usage](#installation)
 * [Information Tools](#information-tools)
 * [Warning](#warning)
 * [Update](#update)
 * [Contributing](#contributing)
 * [License](#license)
 
-## Wiki Instagram Tools
-* [Tutorial On Termux](https://github.com/officialputuid/toolsig/wiki/Tutorial-TERMUX)
-* [Tutorial On LAPTOP/PC](https://github.com/officialputuid/toolsig/wiki/Tutorial-LAPTOP-PC)
-* [Tutorial On OTHER APP C9io or CodeAnywhere](https://github.com/officialputuid/toolsig/wiki/Tutorial-Other-APP-(C9io-CodeAnywhere))
 
-## Default or Basic Usage
-	* git clone https://github.com/officialputuid/toolsig.git
+## Installation
+	* git clone https://github.com/auliaahmad165/IG.git
 	* cd toolsig
 	* unzip node_modules.zip
 	* node index.js
@@ -59,7 +55,10 @@
 	☆ Ccocot (ccocot@bc0de.net)
 	☆ ALL MEMBER SGB TEAM REBORN
 	☆ Zerobyte.id - BC0DE.NET - NAONLAH.NET - WingKocoli
-	☆ Adding Feature (ITTYW), Testing & Fixing by @officialputuid
+	☆ Adding Feature (ITTYW), Testing & Fixing by @auliaahmad16
 	
 ## License
 	☑ This project is licensed under MIT License 2018. https://opensource.org/licenses/MIT
+
+
+Any problems? Find me on https://www.instagram.com/auliaahmad16/
