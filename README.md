@@ -21,7 +21,7 @@
 
 ## Installation
 	* git clone https://github.com/auliaahmad165/IG.git
-	* cd toolsig
+	* cd IG
 	* unzip node_modules.zip
 	* node index.js
 	* Then select the tool you want to use!
