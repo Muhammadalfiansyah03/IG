@@ -50,11 +50,6 @@ const main = async () => {
       await botlike();
       break;
         
-      case "[-] Botlike TL v2":
-      const botlike2 = require('./tools/botlike2.js');
-      await botlike2();
-      break;
-
       case "[-] Botlike TL v2 (Automatic)":
       const botlike2 = require('./tools/botlike2.js');
       await botlike2();
