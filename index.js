@@ -44,10 +44,15 @@ const main = async () => {
       const bomliketarget = require('./tools/bomliketarget.js');
       await bomliketarget();
       break;
-
+      
       case "[-] Botlike TL v1 (With Sleep)":
       const botlike = require('./tools/botlike.js');
       await botlike();
+      break;
+        
+      case "[-] Botlike TL v2":
+      const botlike2 = require('./tools/botlike2.js');
+      await botlike2();
       break;
 
       case "[-] Botlike TL v2 (Automatic)":
